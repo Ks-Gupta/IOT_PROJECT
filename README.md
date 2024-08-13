@@ -34,4 +34,7 @@ Connect the components according to the provided circuit diagram.
 Use a Bluetooth-enabled device to control the car.
 
 
+![image](https://github.com/user-attachments/assets/09bcefb8-a9c0-45fc-9c7d-ed2843cba3c6)
+![image](https://github.com/user-attachments/assets/62d2d777-3caf-47a1-bf9b-2bdd3ebc382c)
+
 
