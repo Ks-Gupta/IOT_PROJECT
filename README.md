@@ -27,9 +27,11 @@ This project involves the development of an Arduino-based remote control car des
 To replicate this project, follow these steps:
 1. **Clone the Repository:**  
 2. **Upload Code to Arduino:**  
-Use the Arduino IDE to upload the code to your Arduino Uno board.
+Use the Arduino IDE version 1.8.13 to upload the code to your Arduino Uno board.
 3. **Assemble the Components:**  
 Connect the components according to the provided circuit diagram.
 4. **Control the Car:**  
 Use a Bluetooth-enabled device to control the car.
+
+
 
